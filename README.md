@@ -7,8 +7,9 @@
 </p>
 
 [![Degree](https://img.shields.io/badge/BCA-Cyber%20Security-8B5CF6?style=flat-square&logo=graduation-academic&logoColor=white)](https://github.com/vishnu-webdev)
-[![Specialization](https://img.shields.io/badge/MERN-Stack%20Expert-6D28D9?style=flat-square&logo=react&logoColor=white)](https://github.com/vishnu-webdev)
-[![Location](https://img.shields.io/badge/Location-Global%20%2F%20Remote-4C1D95?style=flat-square&logo=world&logoColor=white)](https://github.com/vishnu-webdev)
+[![Specialization](https://img.shields.io/badge/MERN-Stack%20Certified%20(Entri)-6D28D9?style=flat-square&logo=react&logoColor=white)](https://github.com/vishnu-webdev)
+[![Experience](https://img.shields.io/badge/MERN-1%20Year%20Intensive-4C1D95?style=flat-square&logo=codeforces&logoColor=white)](https://github.com/vishnu-webdev)
+[![Location](https://img.shields.io/badge/Location-Global%20%2F%20Remote-3B0764?style=flat-square&logo=world&logoColor=white)](https://github.com/vishnu-webdev)
 
 <p align="center">
   <a href="https://vishnu-webdev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
