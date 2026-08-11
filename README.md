@@ -121,7 +121,7 @@
 
 ## 💼 Experience
 
-### **Full Stack Developer** | *Nexus Digital Solutions*
+### **Full Stack Developer** | *APTIV Connection Systems*
 `2024 — Present`
 * Lead development of high-scale MERN stack web applications servicing hundreds of thousands of enterprise users.
 * Architected micro-frontend React structures and modular Express backend services to streamline team velocity.
